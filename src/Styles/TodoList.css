@@ -1,0 +1,9 @@
+#todoP{
+    font-size: 1.5rem;
+    color: blue;
+    display: flex;
+    flex-direction: column;
+}
+.TodoCard :hover{
+    background-color: rgb(231, 5, 5);
+}
